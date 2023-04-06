@@ -1,0 +1,31 @@
+DELETE the server folder
+
+Open terminal in vscode and run:
+(ctrl + `) 
+
+
+mkdir server
+
+(Download the file and Add the server.js file in this folder.)
+
+Open terminal in vscode and run the ff:
+cd server
+npm init -y
+npm install express 
+
+npm install cors body-parser mysql nodemon
+npm install cookie-parser jsonwebtoken bcrypt
+
+
+
+On the package.json file:
+
+below main server.js add this:
+
+"type": "module", 
+
+sa scripts{} naman:
+"start": "node server.js",
+"devStart": "nodemon server.js"
+
+OUTPUT OF PACKAGE.JSON SHOULD LOOK LIKE THE IMG ATTACHED.
