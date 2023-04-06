@@ -15,3 +15,27 @@ Material Icon Theme
 Monokai Pro
 MySQL Shell for VS Code
 Prettier - code formatter
+
+
+How to add a comment:
+
+FOR HTML:
+<!--comment-->
+
+CSS:
+/*comment*/
+
+JS:
+//single line comment
+
+/*multiple
+line
+comment*/
+
+JSX (JS Document):
+/**single line comment*/
+
+/* multiple
+*line
+*comment 
+*/
