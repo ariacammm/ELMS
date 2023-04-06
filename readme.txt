@@ -1,3 +1,10 @@
+INSTALL:
+Visual Studio Code
+ReactJS
+NodeJS
+MySQL
+(store credentials in a file because it will be used later on.)
+
 IF YOU WILL MAKE CHANGES, SCREENSHOT THE ADDED CODE AND DIRECTORY.
 AND ADD COMMENT BEFORE PUTTING IT HERE.
 
